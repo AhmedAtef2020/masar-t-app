@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/masar-t-app/static/js/main.31f60401.js",
+    "static/js/453.9f31f03d.chunk.js": "/masar-t-app/static/js/453.9f31f03d.chunk.js",
+    "index.html": "/masar-t-app/index.html",
+    "main.31f60401.js.map": "/masar-t-app/static/js/main.31f60401.js.map",
+    "453.9f31f03d.chunk.js.map": "/masar-t-app/static/js/453.9f31f03d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.31f60401.js"
+  ]
+}
